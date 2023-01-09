@@ -16,5 +16,5 @@ Let's Connect with me at:
 
   
   
-| <a href="https://github.com/ImRicky21/"><img align="center" heigt="170em" src="https://github-readme-stats.vercel.app/api?username=ImRicky21&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ricky's github stats" /></a> | <a href="https://github.com/ImRicky21/github-readme-stats"><img align="center" heigt="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImRicky21&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/ImRicky21/"><img align="center" heigt="170em" src="https://github-readme-stats.vercel.app/api?username=ImRicky21&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ricky's github stats" /></a> | <a href="https://github.com/ImRicky21/"><img align="center" heigt="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImRicky21&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
