@@ -1,11 +1,13 @@
-# Halo semua! 
+# Hello Everyone!!! 
 
-Perkenalkan nama saya **Ricky Rahmad Ramadhana**.
+I'am **Ricky Rahmad Ramadhana**.
 
-Saya seorang **Mahasiswa Teknologi Pendidikan** Di [Universitas Lambung Mangkurat](https://tp.fkip.ulm.ac.id/) .
+I'm a **Educational Technology** student at [Universitas Lambung Mangkurat](https://tp.fkip.ulm.ac.id/) .
 
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ricky-rahmad-ramadhana-05a64a190/)ku ya.
+Let's Connect with me at:
+[Linkedin](https://www.linkedin.com/in/ricky-rahmad-ramadhana-05a64a190/).
+[Instagram](https://www.instagram.com/ritchyz_/).
 
 
 <p align="left">
