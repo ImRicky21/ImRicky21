@@ -15,6 +15,6 @@ Let's Connect with me at:
   <img height="180em" 
        src="https://github-readme-stats.vercel.app/api?username=ImRicky21&show_icons=true&theme=tokyonight"/>
   <img height="180em" 
-       src="https://github-readme-stats.vercel.app/api?username=ImRicky21&show_icons=true&theme=tokyonight"/>
+       src="https://github-readme-stats.vercel.app/api?username=ImRicky21&theme=tokyonight&show_icons=true"/>
 </a>
 </p>
