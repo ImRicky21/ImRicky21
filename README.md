@@ -6,8 +6,8 @@ I'm a **Educational Technology** student at [Universitas Lambung Mangkurat](http
 
 
 Let's Connect with me at:
-[Linkedin](https://www.linkedin.com/in/ricky-rahmad-ramadhana-05a64a190/).
-[Instagram](https://www.instagram.com/ritchyz_/).
+**[Linkedin](https://www.linkedin.com/in/ricky-rahmad-ramadhana-05a64a190/).
+[Instagram](https://www.instagram.com/ritchyz_/).**
 
 
 <p align="left">
