@@ -2,7 +2,7 @@
 
 I'am **Ricky Rahmad Ramadhana**.
 
-I'm a **Educational Technology** student at [Universitas Lambung Mangkurat](https://tp.fkip.ulm.ac.id/) .
+I'm a **Educational Technology** freshgraduate [Universitas Lambung Mangkurat](https://tp.fkip.ulm.ac.id/) .
 
 
 Let's Connect with me at:
